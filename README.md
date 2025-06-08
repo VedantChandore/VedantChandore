@@ -14,6 +14,8 @@
   <img alt="React"      src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=black" />
   <img alt="Node.js"    src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&amp;logoColor=white" />
   <img alt="Next.js"    src="https://img.shields.io/badge/Next.js-000000?logo=next.js&amp;logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
   <img alt="Python"     src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white" />
   <img alt="AI/ML"      src="https://img.shields.io/badge/AI/ML-FF6F61?logo=robot&amp;logoColor=white" />
   <img alt="GenAI"      src="https://img.shields.io/badge/GenAI-0A66C2?logo=openai&amp;logoColor=white" />
