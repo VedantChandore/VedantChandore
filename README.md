@@ -50,8 +50,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantChandore&repo=MyWellness&theme=dracula"
          alt="MyWellness" />
   </a>
-  <a href="https://github.com/VedantChandore/ai-intern-copilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantChandore&repo=ai-intern-copilot&theme=dracula"
+  <a href="https://github.com/VedantChandore/ai_intern_copilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantChandore&repo=ai_intern_copilot&theme=dracula"
          alt="AI intern copliot" />
   </a>
 </p>
