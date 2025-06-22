@@ -25,8 +25,6 @@
 
 ## 📈 GitHub Pulse
 <p align="center">
-  <img alt="Vedant's GitHub Stats" height="160"
-       src="https://github-readme-stats.vercel.app/api?username=VedantChandore&show_icons=true&theme=dracula&hide_border=true" />
   <img alt="Top Languages" height="160"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantChandore&layout=compact&theme=dracula&hide_border=true" />
 </p>
