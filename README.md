@@ -50,9 +50,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantChandore&repo=MyWellness&theme=dracula"
          alt="MyWellness" />
   </a>
-  <a href="https://github.com/VedantChandore/E-Commerce_Sales_Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantChandore&repo=E-Commerce_Sales_Chatbot&theme=dracula"
-         alt="E‑Commerce Sales Chatbot" />
+  <a href="https://github.com/VedantChandore/ai-intern-copilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantChandore&repo=ai-intern-copilot&theme=dracula"
+         alt="AI intern copliot" />
   </a>
 </p>
 
