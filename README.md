@@ -35,7 +35,7 @@
 - 🌟 MERN‑stack developer: **MongoDB**, **Express**, **React**, **Node.js**, **Next.js**  
 - 🤖 Passionate about **Python**, **AI/ML**, **Computer Vision**, and cutting‑edge **Generative AI**  
 - ☁️ Skilled in building and deploying cloud‑native applications  
-- 🌱 Currently diving into **MCP CLient and Server thing** 
+- 🌱 Currently diving into **GenAI Thing and Agentic protocols stuff** 
 - 🤝 Always open to collaborations and mentorship opportunities  
 
 ---
