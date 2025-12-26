@@ -1,72 +1,89 @@
+<!-- =========================================================== -->
+<!--                   🌌  V E D A N T   C .                   -->
+<!-- =========================================================== -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1400&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Vedant+👋;Full-Stack+Developer+%7C+AI+Engineer+%7C+Tech+Explorer;Crafting+Ideas+Into+Scalable+Reality+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Vedant+👋;Full-Stack+Engineer+%7C+AI+Developer;Building+Smart+%26+Scalable+Digital+Worlds+🚀;Crafting+Code+With+Creativity+%26+Logic+⚡" />
 </h1>
 
 <p align="center">
-  <em>Passionate about Web Dev, AI, Computer Vision & Agentic Systems ⚡</em>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="80%" />
 </p>
 
 ---
 
-## ⚙️ Tech Stack I Command
-<p align="center">
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+<!-- =========================================================== -->
+<!--                      🎨 A E S T H E T I C  B I O          -->
+<!-- =========================================================== -->
 
-  <!-- Mobile -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+## 🌠 About Me  
+> *"Engineering isn’t just about code — it’s about crafting logic that breathes."*
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+🔥 I create things that blend engineering, design thinking, and AI creativity.  
+My world revolves around **Web Development, AI, System Design, GenAI Agents, LLM toolchains, MCP protocols**, and smart backend engineering.
 
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F61?logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-0A66C2?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agents-9333EA?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?logo=python&logoColor=white" />
-
-</p>
+- 🧠 Exploring **Generative AI, Agents, Prompt Engineering**  
+- ⚙️ Love optimizing systems for *performance + intelligence*  
+- 💼 Active in Hackathons, Open Source & AI community projects  
+- 🌱 Currently leveling up in **Agentic Architectures & LLM Tool Orchestration**  
 
 ---
 
-## 🔥 GitHub Vibes
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantChandore&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- =========================================================== -->
+<!--                ⚡ S K I L L   A R S E N A L                -->
+<!-- =========================================================== -->
+
+## ⚙️ Tech Stack Mastery
+
+<div align="center">
+
+### 🎨 **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,figma" />
+
+### 🧩 **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,firebase,mongodb,postgres,mysql,redis" />
+
+### 📱 **Mobile**
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### 🤖 **AI + GenAI**
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+<br>
+<img src="https://img.shields.io/badge/LLM-LangChain-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agents-MCP Protocols-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VectorDB-FAISS-darkgreen?style=for-the-badge" />
+
+### 🛠️ **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman" />
+
+</div>
 
 ---
 
-## 🧠 Who Am I?
-- 💻 Full-stack dev blending creativity with engineering  
-- 🔍 Exploring **GenAI**, **Agents**, **LLM Tooling**, and **MCP protocols**  
-- ⚡ I enjoy crafting **smart, scalable & meaningful** digital products  
-- ☁️ Cloud-first mindset with real-world deployment experience  
-- 🤝 Always excited for collaborations, hackathons & community building  
+<!-- =========================================================== -->
+<!--                     📈 G I T H U B   S T A T S             -->
+<!-- =========================================================== -->
+
+## 🚀 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VedantChandore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantChandore&theme=tokyonight&hide_border=true" height="170" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantChandore&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
-## 🚀 Featured Work
+<!-- =========================================================== -->
+<!--                   📦 F E A T U R E D  W O R K              -->
+<!-- =========================================================== -->
+
+## 🌐 Featured Projects  
 <p align="center">
   <a href="https://github.com/VedantChandore/InsightX-Web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VedantChandore&repo=InsightX-Web&theme=tokyonight&hide_border=true" />
@@ -81,15 +98,55 @@
 
 ---
 
-## 🌐 Connect With Me
+<!-- =========================================================== -->
+<!--                 🌀 S C R O L L I N G  T E X T               -->
+<!-- =========================================================== -->
+
+## 🌈 Smooth Scrolling Banner
+
 <p align="center">
-  <a href="https://github.com/VedantChandore">GitHub</a> •
-  <a href="https://www.linkedin.com/in/vedant-chandore-87159622b">LinkedIn</a> •
-  <a href="mailto:vedantchandore5@gmail.com">Email</a>
+  <marquee width="80%" direction="left" scrollamount="6">
+    🚀 Full-Stack Developer • 🤖 AI/ML Enthusiast • 🧠 Agentic Systems Explorer • ⚡ System Designer • 🎯 Problem Solver • 🌐 Web Engineer • 🛰️ Always Learning, Always Building  
+  </marquee>
 </p>
 
 ---
 
+<!-- =========================================================== -->
+<!--                     🧠 P H I L O S O P H Y                  -->
+<!-- =========================================================== -->
+
+## 💬 Developer Philosophy  
+> *"Great software is a blend of mathematics, intuition, and a pinch of madness."*
+
+> *"A real engineer doesn’t just solve problems — they redefine what’s possible."*
+
+---
+
+<!-- =========================================================== -->
+<!--                   🌐 C O N N E C T  W I T H  M E            -->
+<!-- =========================================================== -->
+
+## 📫 Connect With Me  
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/VedantChandore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vedant-chandore-87159622b)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:vedantchandore5@gmail.com)
+
+</div>
+
+---
+
+<!-- =========================================================== -->
+<!--                   🧠 Q U O T E  T O  E N D                  -->
+<!-- =========================================================== -->
+
+<h2 align="center"><i>
+  "Software engineering is the closest thing we have to superpowers."
+</i></h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⚡;Keep+Building.+Keep+Exploring.+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Keep+Building...;Keep+Breaking+Limits...;Keep+Exploring+the+Unknown+🚀" />
 </p>
+
