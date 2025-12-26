@@ -102,7 +102,7 @@ My world revolves around **Web Development, AI, System Design, GenAI Agents, LLM
 <!--                 🌀 S C R O L L I N G  T E X T               -->
 <!-- =========================================================== -->
 
-## 🌈 Smooth Scrolling Banner
+
 
 <p align="center">
   <marquee width="80%" direction="left" scrollamount="6">
@@ -142,9 +142,6 @@ My world revolves around **Web Development, AI, System Design, GenAI Agents, LLM
 <!--                   🧠 Q U O T E  T O  E N D                  -->
 <!-- =========================================================== -->
 
-<h2 align="center"><i>
-  "Software engineering is the closest thing we have to superpowers."
-</i></h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Keep+Building...;Keep+Breaking+Limits...;Keep+Exploring+the+Unknown+🚀" />
